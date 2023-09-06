@@ -1,7 +1,7 @@
 <?php
 
 include_once "connections.php";
-include_once "style.php";
+// include_once "style.php";
 
 
 
